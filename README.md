@@ -1,0 +1,2 @@
+# Federated-Learning-Framework-for-Privacy-Preserving-Explainable-AI-Driven-Clinical-Decision-Making-
+This repository provides the supplementary material for our proposed federated deep learning framework for privacy-preserving clinical decision support. The framework integrates Vision Transformers (ViT) with self-supervised learning to enable robust medical image representation, particularly in scenarios with limited labeled data.
