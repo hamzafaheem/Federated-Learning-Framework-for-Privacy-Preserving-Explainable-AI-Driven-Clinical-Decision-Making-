@@ -17,8 +17,10 @@ This repository provides the supplementary material for our proposed federated d
 
 <img width="3600" height="3000" alt="Ablation_2x2_Matrix_300dpi" src="https://github.com/user-attachments/assets/6bf0b3f4-68a2-44ab-8a1e-ff36aa5a03fa" />
 
+## Citation 
 If you find this useful, please cite our paper
 
+</>Markdown
 @ARTICLE{11458676,
   author={Qazi, Emad-ul-Haq and AL-Ghanem, Waleed Khalid and Faheem, Muhammad Hamza and Ullah, Hanif},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
