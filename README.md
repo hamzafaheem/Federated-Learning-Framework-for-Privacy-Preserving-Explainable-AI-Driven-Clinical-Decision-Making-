@@ -4,6 +4,7 @@ This repository provides the supplementary material for our proposed federated d
 ## Contents
 - figures/: High-resolution figures and additional experimental results
 - supplementary.pdf: Compiled document of all supplementary figures with captions
+- captions/: Contains captions.txt providing detailed descriptions of all supplementary figures and tables and their references to relevant sections of the main manuscript
 
 # ProposedFLframeworkflowforprivacy-preservingAI-driven clinicaldecision-making.
 
