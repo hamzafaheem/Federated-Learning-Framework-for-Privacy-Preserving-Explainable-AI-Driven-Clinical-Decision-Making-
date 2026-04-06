@@ -23,7 +23,7 @@ This repository provides the supplementary material for our proposed federated d
 <img width="3600" height="3000" alt="Ablation_2x2_Matrix_300dpi" src="https://github.com/user-attachments/assets/6bf0b3f4-68a2-44ab-8a1e-ff36aa5a03fa" />
 
 ## Citation 
-If you find this useful, please cite our paper
+If you find this useful, please cite our paper:
 
 E. -u. -H. Qazi, W. K. AL-Ghanem, M. H. Faheem and H. Ullah, "Federated Learning Framework for Privacy-Preserving Explainable AI-Driven Clinical Decision-Making," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2026.3679499.
   
