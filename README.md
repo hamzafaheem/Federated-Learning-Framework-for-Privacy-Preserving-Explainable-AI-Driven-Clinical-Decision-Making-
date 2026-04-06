@@ -20,7 +20,6 @@ This repository provides the supplementary material for our proposed federated d
 ## Citation 
 If you find this useful, please cite our paper
 
-</>Markdown
 @ARTICLE{11458676,
   author={Qazi, Emad-ul-Haq and AL-Ghanem, Waleed Khalid and Faheem, Muhammad Hamza and Ullah, Hanif},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
@@ -29,8 +28,9 @@ If you find this useful, please cite our paper
   volume={},
   number={},
   pages={1-16},
-  keywords={Radio broadcasting;Frequency modulation;Broadcasting;Broadcast technology;Central Processing Unit;Electronic circuits;Internet;Electronic mail;Pixel;Modulation;Federated Learning;Vision Transformer;Tuberculosis;Diabetic Retinopathy;Brain Tumor;Self-Supervised Learning;DINOv2;Privacy-Preserving AI;Differential Privacy;ECC Encryption;Explainable AI;Clinical Decision Support;Medical Imaging},
-  doi={10.1109/JBHI.2026.3679499}}
+  keywords={Radio broadcasting;Frequency modulation;Broadcasting;Broadcast technology;Central Processing Unit;Electronic circuits;Internet;Electronic mail;Pixel;Modulation;Federated Learning;Vision     Transformer;Tuberculosis;Diabetic Retinopathy;Brain Tumor;Self-Supervised Learning;DINOv2;Privacy-Preserving AI;Differential Privacy;ECC Encryption;Explainable AI;Clinical Decision Support;Medical Imaging},
+  doi={10.1109/JBHI.2026.3679499}
+  }
 
 
 
