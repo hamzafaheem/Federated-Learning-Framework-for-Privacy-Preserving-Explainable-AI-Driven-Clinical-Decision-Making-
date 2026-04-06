@@ -1,1 +1,16 @@
+Figure 2: Framework flow
+Description: Proposed FL Framework Flow for Privacy-Preserving AI-Driven Clinical Decision-Making.
+Related Section: Section III (Methodology)
+
+Figure 15: Ablation
+Description: Ablation study on key components of the proposed framework.
+Related Section: Section IV-H (Ablation Study on Core Framework Components)
+
+Table 2: Nomenclature
+Description: Nomenclature of ymbols Used in Methodology.
+Related Section: Section III (Methodology)
+
+Table 3: Experimental Configuration
+Description: Experimental Configuration and Reproducibility Parameters.
+Related Section: Section IV (Experimentation Setup and Results)
 
